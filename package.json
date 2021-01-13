@@ -1,0 +1,25 @@
+{
+  "name": "BlogApp",
+  "version": "1.0.0",
+  "description": "Blog app api's",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aarushi11H/BlogApp.git"
+  },
+  "author": "Paras Bansal",
+  "bugs": {
+    "url": "https://github.com/Aarushi11H/BlogApp/issues"
+  },
+  "homepage": "https://github.com/Aarushi11H/BlogApp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.11.9",
+    "nodemon": "^2.0.6"
+  }
+}
